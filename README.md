@@ -11,5 +11,5 @@ how to use:
 
 
 in the app:
-- pressing "A" will start and stop slideshow.
+- pressing "A" will start slideshow and "B" will stop slideshow.
 - press left or right to cycle through your images.
