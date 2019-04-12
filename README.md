@@ -1,5 +1,7 @@
 # PocketPhotos
 
+* requires a PocketStar, get your PocketStar here: https://www.zepsch.com/shop/ 
+
 how to use:
 
 1- Put fotos.bin and fotos.psi in folder "\apps\fotos" onto your SD.
